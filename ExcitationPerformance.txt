@@ -1,0 +1,8 @@
+targetMeanFA 19.9525
+duration 0.004185
+pkRF 0.0341249
+Total RF Power 0.402642
+RMSE_in 0.010303
+RMSE_bk 0.00996109
+pkFAbk 2.2907
+NRMSE overall 6.59164
